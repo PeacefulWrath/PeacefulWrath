@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working at Yactraq as a software developer
 
-- 🌱 I’m currently learning Devops & AI
+- 🌱 I’m currently learning technologies related to AI
 
 - 📫 How to reach me **srinjayayan1262000@gmail.com**
