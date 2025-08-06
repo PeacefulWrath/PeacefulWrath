@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I’m currently working at Yactraq as a software developer
+- 🔭 I’m currently employed as a software engineer at Yactraq
 
 - 🌱 I’m currently learning technologies related to AI
 
