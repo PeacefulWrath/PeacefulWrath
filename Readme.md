@@ -1,4 +1,4 @@
-<h3 align="center"> Software Developer ⚡ AI Enthusiast ⚡ DSA </h3>
+<h3 align="center"> Software Engineer ⚡ AI Enthusiast ⚡ DSA </h3>
 
 <br>
 
